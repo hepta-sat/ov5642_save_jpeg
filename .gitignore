@@ -1,0 +1,11 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed
+FATFileSystem
+SDFileSystem
+HEPTA_CDH
+PowerControl
+HeptaBattery
